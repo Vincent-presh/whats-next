@@ -1,0 +1,4 @@
+interface:
+  display_name: "What's Next"
+  short_description: "Decide the next best feature to build"
+  default_prompt: "Use $whats-next to identify the next best feature to build from the current product state and ideal product target."
